@@ -38,3 +38,11 @@
 		</div>
 	</div>
 </nav>
+
+<style>
+	nav {
+			position: fixed;
+			z-index: 1000;
+			width: 100vw;
+	}
+</style>
